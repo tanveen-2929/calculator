@@ -1,10 +1,27 @@
-# Calculator
+# 🧮 Calculator App
 
-A simple calculator project built using React + Vite.
+A simple and responsive calculator built using **React + Vite**.  
+This project performs basic arithmetic operations with a clean UI and fast performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+👉 https://calculator-rust-psi.vercel.app/
 
-- @vitejs/plugin-react uses Babel for Fast Refresh
-- @vitejs/plugin-react-swc uses SWC for Fast Refresh
+---
+
+## ✨ Features
+- Addition, Subtraction, Multiplication, Division
+- Clean and responsive UI
+- Fast performance using Vite
+- Error-free input handling
+- Beginner-friendly React project
+
+---
+
+## 🛠️ Tech Stack
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- CSS3
